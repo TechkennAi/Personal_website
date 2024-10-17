@@ -1,0 +1,11 @@
+.gajs{
+    color: rgba(8, 47, 76);
+    color: rgba(255, 241, 212);
+    color: rgba(247, 245, 240, 0.315);
+    background: rgba(0, 0, 0, 0.335);
+
+}
+
+:root{
+    --accent: rgba(108, 117, 125, 0.522);
+    }
